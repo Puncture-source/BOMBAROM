@@ -11,17 +11,17 @@ related: []
 # {{title}}
 
 ## Purpose
-%% One or two lines: what this procedure achieves and when to use it. %%
+%% What this procedure achieves and when to use it. %%
 
 ## Prerequisites
 %% Tools, parts, software versions, safety precautions, required state before starting. %%
 
 ## Steps
-%% Numbered. One action per step. Exact commands and values. %%
+%% Exact commands and values. %%
 1.
 
 ## Verification
-%% How to confirm it worked. Expected readings or outputs. %%
+%% How to confirm it worked, i.e. expected outputs. %%
 
 ## Troubleshooting
 %% Symptom, likely cause, fix. Link DBs for past failures. %%

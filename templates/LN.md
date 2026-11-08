@@ -11,13 +11,13 @@ related: []
 # {{title}}
 
 ## Goal
-%% What this session or note is for. One line. %%
+%% What this session or note is for. %%
 
 ## Log
-%% Append-only, chronological. Timestamp entries if useful. %%
+%% Append-only, chronological. Timestamp entries. %%
 
 ## Observations
-%% Things noticed, measurements, surprises. %%
+%% Things noticed. Add all measurements %%
 
 ## Next steps
 %% What to do next. If something here deserves its own record, promote it to a DN, TS, SP, TR or DB and link back. %%

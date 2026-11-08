@@ -11,20 +11,20 @@ related: []
 # {{title}}
 
 ## Symptom
-%% What is wrong, exactly. Observed vs expected behaviour. When it occurs, how often, how to reproduce. %%
+%% Observed vs expected behaviour. When it occurs, how often, how to reproduce. %%
 
 ## Environment
-%% Hardware revision, firmware and software versions, wiring, power supply, instruments, anything that changed recently. %%
+%% Hardware revision, firmware and software versions, wiring, power supply, instruments, anything that changed recently etc etc. %%
 
 ## Hypotheses
-%% Numbered list of possible causes, most likely first. Mark each: untested, ruled out, confirmed. %%
+%% Numbered list of possible causes. %%
 1.
 
 ## Actions
-%% Chronological: what was tried, what was observed. One entry per hypothesis test. Include readings, logs, screenshots. %%
+%% What was tried, what was observed. %%
 
 ## Root cause
-%% What actually caused it, and how it was confirmed. Leave blank until known. %%
+%% What the issue actually was and how it was confirmed.%%
 
 ## Fix
-%% What was changed, and how it was verified to work. Link the SP or TS if the fix changes a procedure or a spec. If this recurs, write a new DB and link this one. %%
+%% What did you do to fix it. Link the SP or TS if the fix changes a procedure or a spec. If this recurs, write a new DB and link this one. %%

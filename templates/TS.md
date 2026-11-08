@@ -11,16 +11,16 @@ related: []
 # {{title}}
 
 ## Scope
-%% What this spec covers and what it does not. %%
+%% What this spec covers.%%
 
 ## Requirements
-%% Numbered, testable statements. "The controller shall ..." %%
+%% Numbered, testable statements. %%
 
 ## Interfaces
 %% Electrical, mechanical, communication. Pinouts, connectors, protocols, message formats. %%
 
 ## Parameters
-%% Table: parameter, value, unit, source or link. Facts only, no reasoning. %%
+%% Table: parameter, value, unit, source or link. %%
 
 ## Verification
-%% How each requirement is checked. Link the TR that holds the evidence. %%
+%% How each requirement is checked. Link to the relevant TR %%

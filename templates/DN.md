@@ -14,16 +14,16 @@ related: []
 %% Problem, constraints. %%
 
 ## Requirements
-%% What the design must satisfy. Numbers where possible. Link the TS if one exists. %%
+%% What the design must satisfy. Link the TS if one exists. %%
 
 ## Options
-%% One H3 per option: description, pros, cons. %%
+%% One H3 per option: description, pros and cons. %%
 
 ## Analysis
 %% Maths, comparisons, evidence. %%
 
 ## Decision
-%% What was chosen and why, in a few lines. What it locks in or rules out. Leave blank until decided. If this reverses an earlier DN, set the old one to status: superseded. %%
+%% What was chosen and why. What it locks in or rules out. Leave blank until decided. If this reverses an earlier DN, set the old one to status: superseded. %%
 
 ## Open questions
 %% Unresolved items, risks, things to check. %%
